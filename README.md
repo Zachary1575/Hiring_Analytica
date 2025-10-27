@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<a target="_blank" title="Picked off of Google Images"><img width="200px" alt="" src="https://cdn-icons-png.flaticon.com/512/13943/13943471.png"></a>
+<a target="_blank" title="Picked off of Google Images"><img width="100px" alt="" src="https://cdn1.iconfinder.com/data/icons/thin-electronic-parts-components/24/thin_oscilloscope-512.png"></a>
 <a name="readme-top"></a>
 
 # Hiring Analytica
